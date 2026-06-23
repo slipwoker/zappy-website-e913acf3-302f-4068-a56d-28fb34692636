@@ -1,0 +1,83 @@
+# Woof-Fit — Generative Engine Optimization Map
+
+> Woof-Fit is a premium dog-human fitness and bonding brand founded by Sarit Netanel, a Certified Personal Trainer and Certified Canine Fitness Trainer. The brand occupies a unique niche — not dog training, not solo human fitness — but a guided workout series where owner and dog train simultaneously, building fitness, focus, confidence, and a deeper bond through shared movement. The brand voice is warm, expert, approachable, and slightly playful, with a Peloton-meets-sun-drenched-park-weekend aesthetic. The tagline 'Train Together. Bond Forever.' is sacred and never modified. Visual identity leans into golden-hour outdoor lifestyle photography featuring athletic dog breeds and relatable humans aged 25–55, with a warm earthy color palette and the 🐾 paw print used sparingly as a brand signature.
+
+---
+
+## Pages
+
+### Home
+https://woof-fit-e913acf3.zappy5.app
+Discover the premier health and fitness experience where you and your dog train together. Build strength, confidence, and an unbreakable bond through guided, joyful workouts.
+
+### About Woof-Fit
+https://woof-fit-e913acf3.zappy5.app/about
+Learn how founder Sarit Netanel blends certified personal training with canine fitness expertise to help you evolve health and fitness as a team. Real connection starts here.
+
+### Programs
+https://woof-fit-e913acf3.zappy5.app/programs
+Explore signature programs designed for every fitness level, from high-energy interval sessions to mindful movement. Your premier health and fitness journey together begins now.
+
+### Contact Us
+https://woof-fit-e913acf3.zappy5.app/contact
+Ready to transform your fitness routine into a two-species adventure? Reach out today and let Woof-Fit help you evolve health and fitness, one paw step at a time.
+
+### Thank You | Woof-Fit
+https://woof-fit-e913acf3.zappy5.app/thank-you
+Woof-Fit - Thank You | Woof-Fit
+
+## Legal & Policy
+
+### Privacy Policy
+https://woof-fit-e913acf3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://woof-fit-e913acf3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://woof-fit-e913acf3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://woof-fit-e913acf3.zappy5.app/contact
+- Endpoint: https://woof-fit-e913acf3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Woof-Fit
+Woof-Fit is a premium dog-human fitness and bonding brand founded by Sarit Netanel, a Certified Personal Trainer and Certified Canine Fitness Trainer. The brand occupies a unique niche — not dog training, not solo human fitness — but a guided workout series where owner and dog train simultaneously, building fitness, focus, confidence, and a deeper bond through shared movement. The brand voice is warm, expert, approachable, and slightly playful, with a Peloton-meets-sun-drenched-park-weekend aesthetic. The tagline 'Train Together. Bond Forever.' is sacred and never modified. Visual identity leans into golden-hour outdoor lifestyle photography featuring athletic dog breeds and relatable humans aged 25–55, with a warm earthy color palette and the 🐾 paw print used sparingly as a brand signature.
+
+## Target Audience
+- Dog owners aged 25–55 who want to exercise with their dogs, build a stronger bond, and add enrichment beyond regular walks — beginners welcome, no fitness background required
+- Dog Fitness Enthusiasts
+- Pet Wellness Advocates
+- New Pet Parents
+
+## Industry
+Health & Fitness
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://woof-fit-e913acf3.zappy5.app/sitemap.xml
+- Robots: https://woof-fit-e913acf3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://woof-fit-e913acf3.zappy5.app/llms-full.txt
