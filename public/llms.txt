@@ -7,37 +7,37 @@
 ## Pages
 
 ### Home
-https://woof-fit-e913acf3.zappy5.app
+https://example.com
 Discover the premier health and fitness experience where you and your dog train together. Build strength, confidence, and an unbreakable bond through guided, joyful workouts.
 
 ### About Woof-Fit
-https://woof-fit-e913acf3.zappy5.app/about
+https://example.com/about
 Learn how founder Sarit Netanel blends certified personal training with canine fitness expertise to help you evolve health and fitness as a team. Real connection starts here.
 
 ### Programs
-https://woof-fit-e913acf3.zappy5.app/programs
+https://example.com/programs
 Explore signature programs designed for every fitness level, from high-energy interval sessions to mindful movement. Your premier health and fitness journey together begins now.
 
 ### Contact Us
-https://woof-fit-e913acf3.zappy5.app/contact
+https://example.com/contact
 Ready to transform your fitness routine into a two-species adventure? Reach out today and let Woof-Fit help you evolve health and fitness, one paw step at a time.
 
 ### Thank You | Woof-Fit
-https://woof-fit-e913acf3.zappy5.app/thank-you
+https://example.com/thank-you
 Woof-Fit - Thank You | Woof-Fit
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://woof-fit-e913acf3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://woof-fit-e913acf3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://woof-fit-e913acf3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://woof-fit-e913acf3.zappy5.app/contact
-- Endpoint: https://woof-fit-e913acf3.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Health & Fitness
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://woof-fit-e913acf3.zappy5.app/sitemap.xml
-- Robots: https://woof-fit-e913acf3.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://woof-fit-e913acf3.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
